@@ -2,6 +2,9 @@
 
 > Research Beyond Boundaries
 
+<img width="1254" height="1254" alt="Logo" src="https://github.com/user-attachments/assets/61652611-d9af-4172-ac41-16cf5d48f7d7" />
+
+
 Hwang's Research is an independent research organization focused on building reliable and intelligent systems.
 
 We explore various research areas including:
