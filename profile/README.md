@@ -75,7 +75,7 @@ We focus on practical research, open-source development, and real-world applicat
 
 GitHub:
 
-* https://github.com/justinbrianhwang
+* [Github](https://github.com/justinbrianhwang)
 
 Web:
 * [web](https://www.sjhwang.com/)
@@ -97,7 +97,7 @@ Web:
 
 GitHub:
 
-* https://github.com/ezwez1203
+* [Github](https://github.com/ezwez1203)
 
 Web:
 * [Web](https://ezwez1203.github.io/myPortfolio/home)
