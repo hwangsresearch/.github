@@ -71,6 +71,9 @@ We focus on practical research, open-source development, and real-world applicat
 
 #### Sunjun Hwang
 
+<img width="180" alt="image" src="https://github.com/user-attachments/assets/ae9facfd-85b6-4e24-afdd-f905b3cec5d5" />
+
+
 * AI Systems Research
 * Autonomous Driving
 * Quantum Computing
@@ -93,6 +96,9 @@ Web:
 ### Assistant Researcher
 
 #### Dohyun Hwang
+
+<img width="180" alt="image" src="https://github.com/user-attachments/assets/94bf03c4-d16c-4a27-bd59-6b2cd4bce801" />
+
 
 * Research Assistance
 * System Development Support
